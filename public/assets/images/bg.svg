@@ -1,0 +1,90 @@
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g clip-path="url(#clip0_21_649)">
+    <rect width="1920" height="1080" fill="white"/>
+    <g clip-path="url(#clip1_21_649)">
+      <path d="M2638 -460H-362V1540H2638V-460Z" fill="#9CB9E5"/> <!-- Jordy Blue -->
+      <path d="M2638 -460H-362V1540H2638V-460Z" fill="url(#paint0_radial_21_649)"/>
+      <path d="M2638 -460H-362V1540H2638V-460Z" fill="#A2B9E6"/> <!-- Powder blue -->
+      <path d="M2638 -460H-362V1540H2638V-460Z" fill="url(#paint1_radial_21_649)"/>
+      <path d="M2638 -460H-362V1540H2638V-460Z" fill="#A9BAE6"/> <!-- Powder blue -->
+      <path d="M2638 -460H-362V1540H2638V-460Z" fill="url(#paint2_radial_21_649)"/>
+      <path d="M2638 -460H-362V1540H2638V-460Z" fill="#ACBCE6"/> <!-- Powder blue -->
+      <path d="M2638 -460H-362V1540H2638V-460Z" fill="url(#paint3_radial_21_649)"/>
+      <path d="M2638 -460H-362V1540H2638V-460Z" fill="#B2BBE6"/> <!-- Periwinkle -->
+      <path d="M2638 -460H-362V1540H2638V-460Z" fill="url(#paint4_radial_21_649)"/>
+      <path d="M2638 -460H-362V1540H2638V-460Z" fill="#B8BCE7"/> <!-- Periwinkle -->
+      <path d="M2638 -460H-362V1540H2638V-460Z" fill="url(#paint5_radial_21_649)"/>
+      <path d="M2638 -460H-362V1540H2638V-460Z" fill="#BEBBE4"/> <!-- Periwinkle -->
+      <path d="M2638 -460H-362V1540H2638V-460Z" fill="url(#paint6_radial_21_649)"/>
+      <path d="M2638 -460H-362V1540H2638V-460Z" fill="#C3BAE3"/> <!-- Periwinkle -->
+      <path d="M2638 -460H-362V1540H2638V-460Z" fill="url(#paint7_radial_21_649)"/>
+      <path d="M2638 -460H-362V1540H2638V-460Z" fill="#C7BAE2"/> <!-- Thistle -->
+      <path d="M2638 -460H-362V1540H2638V-460Z" fill="url(#paint8_radial_21_649)"/>
+      <path d="M2638 -460H-362V1540H2638V-460Z" fill="#CFB8E0"/> <!-- Thistle -->
+      <path d="M2638 -460H-362V1540H2638V-460Z" fill="url(#paint9_radial_21_649)"/>
+
+    </g>
+  </g>
+  <defs>
+    <radialGradient id="paint0_radial_21_649" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(-122 -400) scale(3000 2000)">
+      <stop stop-color="#9CB9E5"/> <!-- Jordy Blue -->
+      <stop offset="0.5" stop-color="#9CB9E5" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="paint1_radial_21_649" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(2008 380) scale(3000 2000)">
+      <stop stop-color="#A2B9E6"/> <!-- Powder blue -->
+      <stop offset="0.5" stop-color="#A2B9E6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="paint2_radial_21_649" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1408 -40) scale(3000 2000)">
+      <stop stop-color="#A9BAE6"/> <!-- Powder blue -->
+      <stop offset="0.5" stop-color="#A9BAE6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="paint3_radial_21_649" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(-242 1480) scale(3000 2000)">
+      <stop stop-color="#ACBCE6"/> <!-- Powder blue -->
+      <stop offset="0.5" stop-color="#ACBCE6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="paint4_radial_21_649" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(328 560) scale(3000 2000)">
+      <stop stop-color="#B2BBE6"/> <!-- Periwinkle -->
+      <stop offset="0.5" stop-color="#B2BBE6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="paint5_radial_21_649" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(2008 340) scale(3000 2000)">
+      <stop stop-color="#B8BCE7"/> <!-- Periwinkle -->
+      <stop offset="0.5" stop-color="#B8BCE7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="paint6_radial_21_649" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1408 -40) scale(3000 2000)">
+      <stop stop-color="#BEBBE4"/> <!-- Periwinkle -->
+      <stop offset="0.5" stop-color="#BEBBE4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="paint7_radial_21_649" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(-242 1480) scale(3000 2000)">
+      <stop stop-color="#C3BAE3"/> <!-- Periwinkle -->
+      <stop offset="0.5" stop-color="#C3BAE3" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="paint8_radial_21_649" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(328 560) scale(3000 2000)">
+      <stop stop-color="#C7BAE2"/> <!-- Thistle -->
+      <stop offset="0.5" stop-color="#C7BAE2" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="paint9_radial_21_649" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(2008 340) scale(3000 2000)">
+      <stop stop-color="#CFB8E0"/> <!-- Thistle -->
+      <stop offset="0.5" stop-color="#CFB8E0" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="paint10_radial_21_649" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(2008 340) scale(3000 2000)">
+      <stop stop-color="#DBB5D8"/> <!-- Pink lavender -->
+      <stop offset="0.5" stop-color="#DBB5D8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="paint13_radial_21_649" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(328 560) scale(3000 2000)">
+      <stop stop-color="#F1AFCF"/> <!-- Lavender pink -->
+      <stop offset="0.5" stop-color="#F1AFCF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="paint17_radial_21_649" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(328 560) scale(3000 2000)">
+      <stop stop-color="#F7B5CB"/> <!-- Orchid pink -->
+      <stop offset="0.5" stop-color="#F7B5CB" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="paint20_radial_21_649" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(-242 1480) scale(3000 2000)">
+      <stop stop-color="#F9BAC3"/> <!-- Pink -->
+      <stop offset="0.5" stop-color="#F9BAC3" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="paint23_radial_21_649" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1408 -40) scale(3000 2000)">
+      <stop stop-color="#F8B8C7"/> <!-- Cherry blossom pink -->
+      <stop offset="0.5" stop-color="#F8B8C7" stop-opacity="0"/>
+    </radialGradient>
+   </defs>
+</svg>
