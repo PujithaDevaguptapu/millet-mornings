@@ -42,6 +42,23 @@ const seo = {
     text-align: start;
   }
 
+  .achievements {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 100px;
+  }
+  
+  .achievements h2 {
+    color: #175a75;
+  }
+
+  .achievements h3 {
+    color: #f3f3f3;
+    margin-bottom: 20px;
+  }
   
 </style>
 
@@ -54,12 +71,20 @@ const seo = {
       <ul class="feat-list fade-in">
         <li>Customizable with milk or water, and your favorite toppings.</li>
           <li>Specially designed for blood sugar control and dietary restrictions.</li>
-          <li>Environmentally friendly.</li>
+          <li>Environmentally friendly and sustainable. </li>
       </ul>
       <h4 class="fade-in"> Coming Soon!</h4>
       <p class="fade-in">We're gearing up for a Fall 2024 launch, and we want you to be part of it.</p>
       <p class="fade-in"> Be among the first to know when our product is available!</p>
       <SignupForm />
+
+      <article class="achievements">
+        <h3 class="fade-in">Achievements</h3>
+        <!-- <img src="../icons/access-certi.png" alt="Achievement Image" />
+        <img src="../icons/access-logo.png" alt="Access Image" /> -->
+        <p class="fade-in"><a href="https://accessccf.com/womens-business-accelerator/" target="_blank">November 2023's Pitch Competition Winner</a></p>
+      </article>
+
     </article>
   </Container>
 </Layout>
